@@ -50,8 +50,8 @@ useEffect(()=>{
 
     return(
         <>
-        <h1>Update Data !!</h1>
-        <table width="100%" align="center" border="1px">
+        <center><h1>Update Data</h1></center>
+        <table width="70%" align="center" border="1px">
               <tr>
                      <th>Employ ID</th>
                      <th>Employ Name</th>
@@ -60,6 +60,7 @@ useEffect(()=>{
               </tr>
               {ans}
         </table>
+        <br/>
         </>
     );
 }

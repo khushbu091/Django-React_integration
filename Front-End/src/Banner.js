@@ -5,7 +5,7 @@ const Banner=()=>
 {
     return(
         <>
-        <div className="Bannerdiv">Sumit Singh Jadon</div>
+        <div className="Bannerdiv">CRUD OPERATION</div>
         </>
     );
 }

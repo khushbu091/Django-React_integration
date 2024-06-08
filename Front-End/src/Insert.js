@@ -46,8 +46,11 @@ const Insert=()=>
         <br/>
         <h4> Employ Salary</h4> <input type="text" name="EmploySalary" value={input.EmploySalary} onChange={handleInput}/>
         <br/>
-        <button onClick={handleSumit}>Data save</button>
+        <br/>
+        <button className="btn" onClick={handleSumit}>Data save</button>
+        <br/>
        </div>
+       <br/>
        
          </>
        );

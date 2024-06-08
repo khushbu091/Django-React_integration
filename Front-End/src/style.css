@@ -38,6 +38,8 @@ a{
 }
 
 .Main-container{
+    background-image: url('../src/img/s2.jpg');
+    background-size: cover;
     width: 100%;
     height: 60vh;
     display: flex;
@@ -60,7 +62,22 @@ a{
 /* insert css start */
 
 .insert-container{
-    text-align: center;
+    width: 400px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin: auto;
+    padding-left: 200px;
+    
+
+}
+.btn
+{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 
 

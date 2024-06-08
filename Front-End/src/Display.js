@@ -37,7 +37,7 @@ const ans=myData.map((key)=>{
        return(
         <>
        <center><h1>Display Records </h1></center> 
-        <table width="100%" align="center" border="1px">
+        <table width="70%" align="center" border="1px" >
               <tr>
                      <th>ID</th>
                      <th>Name</th>
@@ -46,7 +46,7 @@ const ans=myData.map((key)=>{
               </tr>
               {ans}
         </table>
-    
+       <br/>
         </>
        );
 }

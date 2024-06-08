@@ -1,11 +1,25 @@
 {
   "EmployData": [
     {
-      "id": "1bb3",
+      "id": "1",
       "EmployID": "123",
-      "EmployName": "amit",
-      "EmployAddress": "vidisha",
+      "EmployName": "Khushbu",
+      "EmployAddress": "Bhopal",
       "EmploySalary": "60000"
+    },
+    {
+      "id": "2",
+      "EmployID": "1234",
+      "EmployName": "Pooja",
+      "EmployAddress": "Bhopal",
+      "EmploySalary": "70000"
+    },
+    {
+      "id": "3",
+      "EmployID": "12345",
+      "EmployName": "Avni",
+      "EmployAddress": "Indore",
+      "EmploySalary": "80000"
     }
   ]
 }
